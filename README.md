@@ -32,28 +32,28 @@
   </tr>
 
   <tr>
-    <td></b><br/>An eightyearold, smiling, redhaired girl with glasses, dressed in a pink pirate costume, holding a stuffed toy dog. Full body.</td>
+    <td>An eightyearold, smiling, redhaired girl with glasses, dressed in a pink pirate costume, holding a stuffed toy dog. Full body.</td>
     <td><img src="assets/compare/case3/Flux_an eightyearold, smiling, redhaired girl with glasses, dressed in a pink pirate costume, holding a stuffed toy dog. Full body..jpg" alt="case3 flux" width="100%"/></td>
     <td><img src="assets/compare/case3/DanceGRPO_an eightyearold, smiling, redhaired girl with glasses, dressed in a pink pirate costume, holding a stuffed toy dog. Full body..jpg" alt="case3 dancegrpo" width="100%"/></td>
     <td><img src="assets/compare/case3/RealGRPO_an eightyearold, smiling, redhaired girl with glasses, dressed in a pink pirate costume, holding a stuffed toy dog. Full body..jpg" alt="case3 realgrpo" width="100%"/></td>
   </tr>
 
   <tr>
-    <td></b><br/>Poor mom and child in war times</td>
+    <td>Poor mom and child in war times</td>
     <td><img src="assets/compare/case4/Flux_poor mom and child in war times.jpg" alt="case4 flux" width="100%"/></td>
     <td><img src="assets/compare/case4/DanceGRPO_poor mom and child in war times.jpg" alt="case4 dancegrpo" width="100%"/></td>
     <td><img src="assets/compare/case4/RealGRPO_poor mom and child in war times.jpg" alt="case4 realgrpo" width="100%"/></td>
   </tr>
 
   <tr>
-    <td></b><br/>Celtic goddess with red hair and green warrior outfit, fantasy character concept, pure, benevolent, strong, portrait, line art, realistic, hypermaximalist, intricate details, epic composition, golden</td>
+    <td>Celtic goddess with red hair and green warrior outfit, fantasy character concept, pure, benevolent, strong, portrait, line art, realistic, hypermaximalist, intricate details, epic composition, golden</td>
     <td><img src="assets/compare/case5/Flux_celtic goddess with red hair and green warrior outfit, fantasy character concept, pure, benevolent, strong, portrait, line art, realistic, hypermaximalist, intricate details, epic composition, golden.jpg" alt="case4 flux" width="100%"/></td>
     <td><img src="assets/compare/case5/DanceGRPO_celtic goddess with red hair and green warrior outfit, fantasy character concept, pure, benevolent, strong, portrait, line art, realistic, hypermaximalist, intricate details, epic composition, golden.jpg" alt="case4 dancegrpo" width="100%"/></td>
     <td><img src="assets/compare/case5/RealGRPO_celtic goddess with red hair and green warrior outfit, fantasy character concept, pure, benevolent, strong, portrait, line art, realistic, hypermaximalist, intricate details, epic composition, golden.jpg" alt="case4 realgrpo" width="100%"/></td>
   </tr>
 
   <tr>
-    <td></b><br/>A gopro snapshot of an anthropomorphic cat dressed as a firefighter putting out a building fire</td>
+    <td>A gopro snapshot of an anthropomorphic cat dressed as a firefighter putting out a building fire</td>
     <td><img src="assets/compare/case6/Flux_a gopro snapshot of an anthropomorphic cat dressed as a firefighter putting out a building fire.jpg" alt="case4 flux" width="100%"/></td>
     <td><img src="assets/compare/case6/DanceGRPO_a gopro snapshot of an anthropomorphic cat dressed as a firefighter putting out a building fire.jpg" alt="case4 dancegrpo" width="100%"/></td>
     <td><img src="assets/compare/case6/RealGRPO_a gopro snapshot of an anthropomorphic cat dressed as a firefighter putting out a building fire.jpg" alt="case4 realgrpo" width="100%"/></td>
@@ -72,35 +72,35 @@
   </tr>
 
   <tr>
-    <td></b><br/>A digital <b>painting</b> of an Aztec empress in sharp focus, portrayed as a fantasy portrait in concept art style.</td>
+    <td>A digital <b>painting</b> of an Aztec empress in sharp focus, portrayed as a fantasy portrait in concept art style.</td>
     <td><img src="assets/compare/case7/Flux_A digital painting of an Aztec empress in sharp focus, portrayed as a fantasy portrait in concept art style..jpg" alt="case4 flux" width="100%"/></td>
     <td><img src="assets/compare/case7/SRPO_A digital painting of an Aztec empress in sharp focus, portrayed as a fantasy portrait in concept art style..jpg" alt="case4 dancegrpo" width="100%"/></td>
     <td><img src="assets/compare/case7/RealGRPO_A digital painting of an Aztec empress in sharp focus, portrayed as a fantasy portrait in concept art style..jpg" alt="case4 realgrpo" width="100%"/></td>
   </tr>
 
   <tr>
-    <td></b><br/>Portrait of a woman touching her hair, artstation, <b>digital art</b>.</td>
+    <td>Portrait of a woman touching her hair, artstation, <b>digital art</b>.</td>
     <td><img src="assets/compare/case8/Flux_Portrait of a woman touching her hair, artstation, digital art..jpg" alt="case4 flux" width="100%"/></td>
     <td><img src="assets/compare/case8/SRPO_Portrait of a woman touching her hair, artstation, digital art..jpg" alt="case4 dancegrpo" width="100%"/></td>
     <td><img src="assets/compare/case8/RealGRPO_Portrait of a woman touching her hair, artstation, digital art..jpg" alt="case4 realgrpo" width="100%"/></td>
   </tr>
 
   <tr>
-    <td></b><br/><b>Hayao Miyazaki style</b>, ghibli style, Perspective composition, а Volkswagen T5, seaside, Italian riviera, blue sky, a few white clouds, breeze, mountains, cozy, travel, sunny, best quality, 4k niji</td>
+    <td><b>Hayao Miyazaki style</b>, ghibli style, Perspective composition, а Volkswagen T5, seaside, Italian riviera, blue sky, a few white clouds, breeze, mountains, cozy, travel, sunny, best quality, 4k niji</td>
     <td><img src="assets/compare/case9/Flux_Hayao Miyazaki style, ghibli style, Perspective composition, а Volkswagen T5, seaside, Italian riviera, blue sky, a few white clouds, breeze, mountains, cozy, travel, sunny, best quality, 4k niji.jpg" alt="case4 flux" width="100%"/></td>
     <td><img src="assets/compare/case9/SRPO_Hayao Miyazaki style, ghibli style, Perspective composition, а Volkswagen T5, seaside, Italian riviera, blue sky, a few white clouds, breeze, mountains, cozy, travel, sunny, best quality, 4k niji.jpg" alt="case4 dancegrpo" width="100%"/></td>
     <td><img src="assets/compare/case9/RealGRPO_Hayao Miyazaki style, ghibli style, Perspective composition, а Volkswagen T5, seaside, Italian riviera, blue sky, a few white clouds, breeze, mountains, cozy, travel, sunny, best quality, 4k niji.jpg" alt="case4 realgrpo" width="100%"/></td>
   </tr>
 
   <tr>
-    <td></b><br/>Real life <b>sasuke uchiha anime</b> with sad and crying face set in 1980s Japan in cyberpunk world, detailed faces, lens flares, city backgrounds, neon colors, dramatic lighting, incredible details, saturat.</td>
+    <td>Real life <b>sasuke uchiha anime</b> with sad and crying face set in 1980s Japan in cyberpunk world, detailed faces, lens flares, city backgrounds, neon colors, dramatic lighting, incredible details, saturat.</td>
     <td><img src="assets/compare/case10/Flux_real life sasuke uchiha anime with sad and crying face set in 1980s Japan in cyberpunk world, detailed faces, lens flares, city backgrounds, neon colors, dramatic lighting, incredible details, saturat.jpg" alt="case4 flux" width="100%"/></td>
     <td><img src="assets/compare/case10/SRPO_real life sasuke uchiha anime with sad and crying face set in 1980s Japan in cyberpunk world, detailed faces, lens flares, city backgrounds, neon colors, dramatic lighting, incredible details, saturat.jpg" alt="case4 dancegrpo" width="100%"/></td>
     <td><img src="assets/compare/case10/RealGRPO_real life sasuke uchiha anime with sad and crying face set in 1980s Japan in cyberpunk world, detailed faces, lens flares, city backgrounds, neon colors, dramatic lighting, incredible details, saturat.jpg" alt="case4 realgrpo" width="100%"/></td>
   </tr>
 
   <tr>
-    <td></b><br/><b>Grunge painting</b> of an empty road with a distant forest.</td>
+    <td><b>Grunge painting</b> of an empty road with a distant forest.</td>
     <td><img src="assets/compare/case11/Flux_Grunge painting of an empty road with a distant forest..jpg" alt="case4 flux" width="100%"/></td>
     <td><img src="assets/compare/case11/SRPO_Grunge painting of an empty road with a distant forest..jpg" alt="case4 dancegrpo" width="100%"/></td>
     <td><img src="assets/compare/case11/RealGRPO_Grunge painting of an empty road with a distant forest..jpg" alt="case4 realgrpo" width="100%"/></td>
@@ -235,7 +235,7 @@ If you find this codebase useful for your research, please kindly cite:
 }
 
 @misc{RealGRPO,
-    Author = {Yang Zhou},
+    Author = {Yang Zhou, Haoyu Guo},
     Year = {2026},
     Note = {https://github.com/yangzhou24/RealGRPO},
     Title = {RealGRPO: A Simple Way to Eliminate Reward Hacking in GRPO Diffusion Alignment}
