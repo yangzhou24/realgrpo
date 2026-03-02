@@ -109,14 +109,14 @@
 </table>
 
 <p align="center">
-  <em>Unlike SRPO's fixed prompt templates, RealGRPO uses a VLM to adaptively extract positive and negative style cues for each input prompt. This preserves prompt intent across domains (e.g., artistic or anime styles) instead of collapsing toward a single photorealistic bias.</em>
+  <em>Unlike SRPO's fixed prompt templates, RealGRPO uses a LLM to adaptively extract positive and negative style cues for each input prompt. This preserves prompt intent across domains (e.g., artistic or anime styles) instead of collapsing toward a single photorealistic bias.</em>
 </p>
 
 ## 🌟 Method
 
 When training diffusion models with GRPO, directly maximizing a reward model (e.g., HPSv2) can cause **reward hacking**. The model may exploit shortcut artifacts (such as over-smoothing, over-exposure, and unnatural contrast) to increase reward scores without improving real visual quality.
 
-Inspired by [SRPO](https://github.com/Tencent-Hunyuan/SRPO), we use contrastive positive/negative text guidance. Instead of using fixed, hand-crafted style prompts, **RealGRPO** introduces a VLM that analyzes each training prompt and dynamically generates matched `pos_style` and `neg_style` pairs.
+Inspired by [SRPO](https://github.com/Tencent-Hunyuan/SRPO), we use contrastive positive/negative text guidance. Instead of using fixed, hand-crafted style prompts, **RealGRPO** introduces a LLM that analyzes each training prompt and dynamically generates matched `pos_style` and `neg_style` pairs.
 
 This dynamic strategy preserves style consistency across prompt domains (e.g., photorealistic vs. anime) while discouraging reward-hacking artifacts. We integrate it into the **[DanceGRPO framework](https://github.com/XueZeyue/DanceGRPO)** with the following reward:
 
@@ -149,7 +149,7 @@ cd HPSv2 && pip install -e .
 ```
 
 ## 📖 Quick Start
-### 1. Data Preparation (Get text embeddings & VLM Labeling)
+### 1. Data Preparation (Get text embeddings & LLM Labeling)
 For the open-source image generation setting, we use prompts from [HPDv2](https://huggingface.co/datasets/ymhao/HPDv2/tree/main), provided in `./assets/prompts.txt`.
 
 First, generate text embeddings (required):
