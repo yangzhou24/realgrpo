@@ -118,7 +118,7 @@ When training diffusion models with GRPO, directly maximizing a reward model (e.
 
 Inspired by [SRPO](https://github.com/Tencent-Hunyuan/SRPO), we use contrastive positive/negative text guidance. Instead of using fixed, hand-crafted style prompts, **RealGRPO** introduces a LLM that analyzes each training prompt and dynamically generates matched `pos_style` and `neg_style` pairs.
 
-This dynamic strategy preserves style consistency across prompt domains (e.g., photorealistic vs. anime) while discouraging reward-hacking artifacts. We integrate it into the **[DanceGRPO framework](https://github.com/XueZeyue/DanceGRPO)** with the following reward:
+This dynamic strategy preserves style consistency across prompt domains (e.g., photorealistic vs. anime) while discouraging reward-hacking artifacts. We integrate it into the **[DanceGRPO](https://github.com/XueZeyue/DanceGRPO)** with the following reward:
 
 $$Reward=(1 + \lambda)\cdot\text{Sim}(Image, Text_{pos}) -  \text{Sim}(Image, Text_{neg})$$
 
@@ -179,7 +179,7 @@ torchrun --nproc_per_node=<NUM_GPUS> fastvideo/data_preprocess/preprocess_text_Q
 ### 2. GRPO Fine-Tuning
 Run GRPO fine-tuning to update the DiT backbone.
 
-> Reference setup: 32x A800 GPUs for around 100 epochs.
+> Reference setup: 32x A800 GPUs for around 80~100 steps.
 
 ```bash
 bash scripts/finetune/finetune_flux_realgrpo.sh
@@ -217,10 +217,12 @@ This codebase builds on the open-source implementations of [DanceGRPO](https://g
 ## Citation
 If you find this codebase useful for your research, please kindly cite:
 ```
-@misc{RealGRPO,
-    Author = {Yang Zhou, Haoyu Guo},
-    Year = {2026},
-    Note = {https://github.com/yangzhou24/RealGRPO},
-    Title = {RealGRPO: A Simple Way to Eliminate Reward Hacking in GRPO Diffusion Alignment}
+@misc{realgrpo,
+ author = {Yang Zhou, Haoyu Guo},
+ title = {RealGRPO: A Simple Way to Eliminate Reward Hacking in GRPO Diffusion Alignment},
+ year = {2026},
+ publisher = {GitHub},
+ journal = {GitHub repository},
+ howpublished = {\url{https://github.com/yangzhou24/RealGRPO}},
 }
 ```
