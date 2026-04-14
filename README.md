@@ -217,28 +217,10 @@ This codebase builds on the open-source implementations of [DanceGRPO](https://g
 ## Citation
 If you find this codebase useful for your research, please kindly cite:
 ```
-@article{xue2025dancegrpo,
-  title={DanceGRPO: Unleashing GRPO on Visual Generation},
-  author={Xue, Zeyue and Wu, Jie and Gao, Yu and Kong, Fangyuan and Zhu, Lingting and Chen, Mengzhao and Liu, Zhiheng and Liu, Wei and Guo, Qiushan and Huang, Weilin and others},
-  journal={arXiv preprint arXiv:2505.07818},
-  year={2025}
-}
-
-@misc{shen2025directlyaligningdiffusiontrajectory,
-      title={Directly Aligning the Full Diffusion Trajectory with Fine-Grained Human Preference},
-      author={Xiangwei Shen and Zhimin Li and Zhantao Yang and Shiyi Zhang and Yingfang Zhang and Donghao Li and Chunyu Wang and Qinglin Lu and Yansong Tang},
-      year={2025},
-      eprint={2509.06942},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2509.06942},
-}
-
 @misc{RealGRPO,
     Author = {Yang Zhou, Haoyu Guo},
     Year = {2026},
     Note = {https://github.com/yangzhou24/RealGRPO},
     Title = {RealGRPO: A Simple Way to Eliminate Reward Hacking in GRPO Diffusion Alignment}
 }
-
 ```
